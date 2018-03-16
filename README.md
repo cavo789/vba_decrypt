@@ -11,7 +11,7 @@ This PHP script will allow you to reset and then remove the password needed for 
 - [Author](#author)
 - [Install](#install)
 - [Usage](#usage)
-- [License](#license)
+- [Licence](#license)
 
 ## Author
 
@@ -33,8 +33,8 @@ Get a copy of the index.php script, save it on your localhost server and access 
     e. Go to the protection tab and type a new password (test / test f.i.) and click on OK. This will in fact reset the password.
     f. Go once more to the protection tab and just uncheck the `Lock project for viewing`
 
-Tadaaaa, the VBA password protection has been resetted and removed.
+Tadaaaa, the VBA password protection has been reset and removed.
 
-## License
+## Licence
 
-[MIT](LICENSE)
+[MIT](LICENCE)
